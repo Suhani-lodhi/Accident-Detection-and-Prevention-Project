@@ -77,4 +77,5 @@ Ensuring cross-device responsiveness (mobile, tablet, desktop)
 
 5. Conclusion
 A Designer plays a key role in making accident detection systems not only functional but also usable and impactful. By focusing on user-centered design, they help ensure that critical information is communicated clearly and acted on swiftly—ultimately contributing to safety and saving lives.
+
 Role designer Sourabh Tembhare
