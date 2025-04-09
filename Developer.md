@@ -74,4 +74,5 @@ Balancing performance with system complexity and reliability
 
 5. Conclusion
 Coders are the backbone of accident detection systems. Their work ensures the technical infrastructure functions efficiently, accident detection algorithms are correctly implemented, and users receive timely, accurate alerts that can save lives and prevent further damage.
+
 Role Coder Suhani Deshmukh
