@@ -1,7 +1,9 @@
+**Business Analyst**
 1. Introduction
+   
 In the domain of accident detection, a Business Analyst (BA) plays a crucial role in bridging the gap between technical teams and business stakeholders. Their primary focus is on understanding business requirements, aligning them with technical capabilities, and ensuring that solutions provide real value in enhancing safety, response, and decision-making.
 
-2. Key Responsibilities of a Business Analyst in Accident Detection
+3. Key Responsibilities of a Business Analyst in Accident Detection
 
 a. Requirement Gathering
 
@@ -71,4 +73,5 @@ Managing diverse stakeholder interests
 
 5. Conclusion
 A Business Analyst plays a strategic role in accident detection projects by ensuring that technical solutions align with business objectives, improve decision-making, and ultimately enhance public safety and operational efficiency.
-Role business analyst Subham Kumar sah
+Role business analyst
+Subham Kumar sah
