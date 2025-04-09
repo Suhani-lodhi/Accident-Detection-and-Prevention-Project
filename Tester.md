@@ -84,5 +84,6 @@ Limited access to live sensor or GPS data for test environments
 Balancing test coverage and speed in high-pressure, safety-critical systems
 
 5. Conclusion
-Testers play a critical role in ensuring the reliability and safety of accident detection systems. Their work directly impacts the trustworthiness of the system, helping prevent false alarms and ensuring timely emergency responses. 
+Testers play a critical role in ensuring the reliability and safety of accident detection systems. Their work directly impacts the trustworthiness of the system, helping prevent false alarms and ensuring timely emergency responses.
+ 
 Role tester Sparsh Tamrakar
