@@ -74,4 +74,5 @@ Balancing innovation with regulatory compliance and safety standards
 
 5. Conclusion
 The manager is the glue that holds accident detection projects together. They ensure the system is delivered on time, within budget, and aligned with safety, operational, and business goals. Their leadership is crucial in translating vision into real-world impact.
+
 Role Manager Suhani Lodhi
