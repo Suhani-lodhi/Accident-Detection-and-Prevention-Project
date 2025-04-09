@@ -71,4 +71,6 @@ Real-time processing and system integration
 
 5. Conclusion
 Data analysts are essential in accident detection systems, helping reduce response times and enhance public safety. Their analytical work supports proactive strategies for accident prevention and resource allocation.
-Role data analyst Subhash Kumar Prajapati
+
+Role data analyst 
+Subhash Kumar Prajapati
